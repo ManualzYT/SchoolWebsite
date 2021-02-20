@@ -1,0 +1,11 @@
+body{
+background-color:cadetblue;
+font-size:20;
+text-align: center;
+}
+.img{
+border-radius: 30;
+border-color: black;
+height: 150;
+width: 150;
+}
