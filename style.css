@@ -9,3 +9,35 @@ border-color: black;
 height: 150;
 width: 150;
 }
+
+.links {
+float: left;
+color: #fff;
+padding-top: 5px;
+padding-left: 9px;
+padding-right: 9px;
+padding-bottom: 5px;
+font-family:fantasy;
+font-size: 20px
+}
+
+.links:hover {
+background-color:dodgerblue;
+}
+
+html {
+scroll-behavior: smooth;
+}
+
+a {
+text-decoration: none;
+}
+
+.article:hover {
+color:firebrick;    
+}
+
+h1{
+font-size: 25px;
+text-decoration-color: brown;
+}
